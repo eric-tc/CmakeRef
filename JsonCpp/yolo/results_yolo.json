@@ -1,0 +1,112 @@
+[
+    {
+        "image_id": 0,
+        "category_id": 1,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 1,
+        "category_id": 2,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 2,
+        "category_id": 3,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 3,
+        "category_id": 4,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 4,
+        "category_id": 5,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 5,
+        "category_id": 6,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 6,
+        "category_id": 7,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 7,
+        "category_id": 8,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 8,
+        "category_id": 9,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    },
+    {
+        "image_id": 9,
+        "category_id": 10,
+        "bbox": [
+            12,
+            23,
+            23,
+            23
+        ],
+        "score": 0.98
+    }
+]

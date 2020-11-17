@@ -1,0 +1,9 @@
+{
+    "name":"json",
+    "version-string": "0.00.014",
+    "dependencies": [
+  
+        "jsoncpp"
+    ]
+ }
+ 
